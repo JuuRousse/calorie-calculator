@@ -131,6 +131,10 @@
   max-width: 743px;
 }
 
+.parameters-selection .choose-item {
+  cursor: default;
+}
+
 .activity-selection {
   max-width: 930px;
 }
